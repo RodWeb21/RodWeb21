@@ -5,6 +5,7 @@ I'm a self-taught programmer, always striving to improve my skills. I'm also pas
 
 - 🔭 I’m currently working on a To-do app using Django Rest Framework and Nuxt.
 - 🌱 I’m currently learning Git and GitHub in depth.
+- 💻 I’m a Computer Science student, currently in my third year of studies.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
