@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rodrigo</h1>
 
-I'm a **full stack developer** currently focused on building web applications using Django for the backend and Vue.js (with Nuxt.js) for the frontend, along with Django Rest Framework for creating APIs.
+I'm a **full stack developer** currently focused on building web applications using Django for the backend and Vue.js (with Nuxt.js) for the frontend, along with Django REST Framework for creating APIs.
 I'm a self-taught programmer, always striving to improve my skills. I'm also passionate about staying up-to-date with the latest trends and tools in web development.
 
-- 🔭 I’m currently working on a To-do app using Django Rest Framework and Vue.
+- 🔭 I’m currently working on building web applications using Django REST Framework and Vue.
 - 🌱 I’m currently learning Git and GitHub in depth.
 - 💻 I’m a Computer Science student, currently in my third year of studies.
 <!--
